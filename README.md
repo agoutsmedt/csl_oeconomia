@@ -4,10 +4,9 @@ This repository contains Citation Style Language (CSL) files for formatting bibl
 
 ## Files
 
-The repository contains two CSL files:
+The repository contains one CSL file:
 
-- **oeconomia_en.csl**: Citation style for English articles
-- **oeconomia_fr.csl**: Citation style for French articles
+- **oeconomia.csl**: Citation style for English and French articles
 
 ## Purpose
 
@@ -21,7 +20,7 @@ This repository serves two main purposes:
 
 To use these citation styles:
 
-1. Download the appropriate CSL file (`oeconomia_en.csl` for English or `oeconomia_fr.csl` for French)
+1. Download the CSL file
 2. Import it into your reference management software (Zotero, Mendeley, etc.)
 3. Apply the style to your document
 
